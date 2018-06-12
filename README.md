@@ -13,7 +13,7 @@ Optimized codes for reconstruction may be found in [Connectivity_from_event_timi
  ```
 @article{Casadiego2018,
 author={Casadiego, Jose
-and Maoutsa, Mor
+and Maoutsa, Dimitra
 and Timme, Marc},
 title={Inferring network connectivity from event timing patterns},
 journal={Physical Review Letters},
