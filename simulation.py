@@ -24,7 +24,7 @@ Output
 Accompanying material to "Inferring network connectivity from event timing
 patterns".
 
-@author: joscas
+@author: Jose Casadiego
 
 Tested on: NEST 2.14.0
 """
