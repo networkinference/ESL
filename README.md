@@ -1,6 +1,6 @@
 # ESL -- Event Space Linearization
 
-The Event Space Linearization (ESL) is the framework proposed in the article [Inferring network connectivity from event timing patterns, ArXiV](https://arxiv.org/pdf/1803.09974.pdf). 
+The Event Space Linearization (ESL) is the framework proposed in the article [Inferring network connectivity from event timing patterns, PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.054101). 
 
 Relying only on spike timing data, ESL reveals the interaction topology of networks of spiking neurons without assuming specific neuron models to be known in advance. 
 
