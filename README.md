@@ -6,7 +6,7 @@ Relying only on spike timing data, ESL reveals the interaction topology of netwo
 
 In this repository, you will find simple example codes for simulating and reconstructing networks of spiking neurons in Python. [Nest Simulator](http://www.nest-simulator.org/) is required for simulations.
 
-Optimized codes for reconstruction may be found in [Connectivity_from_event_timing_patterns](https://gitlab.com/di.ma/Connectivity_from_event_timing_patterns/)
+Optimized codes for reconstruction may also be found in [Connectivity_from_event_timing_patterns](https://gitlab.com/di.ma/Connectivity_from_event_timing_patterns/)
 
 
 ## Citation
