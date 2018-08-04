@@ -11,18 +11,18 @@ Optimized codes for reconstruction may be found in [Connectivity_from_event_timi
 
 ## Citation
  ```
-@article{Casadiego2018,
-author={Casadiego, Jose
-and Maoutsa, Dimitra
-and Timme, Marc},
-title={Inferring network connectivity from event timing patterns},
-journal={Physical Review Letters},
-year={2018},
-volume={},
-number={},
-pages={},
-issn={},
-doi={},
-url={}
+@article{PhysRevLett.121.054101,
+  title = {Inferring Network Connectivity from Event Timing Patterns},
+  author = {Casadiego, Jose and Maoutsa, Dimitra and Timme, Marc},
+  journal = {Phys. Rev. Lett.},
+  volume = {121},
+  issue = {5},
+  pages = {054101},
+  numpages = {6},
+  year = {2018},
+  month = {Aug},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.121.054101},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.121.054101}
 }
 ```
